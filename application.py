@@ -4,7 +4,9 @@ def addition(a,b):
     return c
 
 def divya_addition(a,b):
-    c=a+b
+    d=10
+    c=a+b+d
+    print('')
     return c
 
 def arun_addition(a, b):
