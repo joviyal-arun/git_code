@@ -1,5 +1,6 @@
 def addition(a,b):
     c=a+b
+    print('your output is c')
     return c
 
 def divya_addition(a,b):
