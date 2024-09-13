@@ -3,7 +3,7 @@ def addition(a,b):
     return c
 
 def divya_addition(a,b):
-    c=a+b
+    c=a+b+10
     return c
 
 def arun_addition(a,b):
