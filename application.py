@@ -14,7 +14,8 @@ output=arun_addition(12,23)
 print(output)
 
 def multiply_operation(a,b):
-    c=a*b
+    c=a*b+10
+    print(c)
     return c
 def div_operation(a,b):
     c=a/b
