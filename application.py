@@ -15,3 +15,6 @@ print(output)
 def multiply_operation(a,b):
     c=a*b
     return c
+def div_operation(a,b):
+    c=a/b
+    return c
