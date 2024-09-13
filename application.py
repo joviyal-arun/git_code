@@ -6,9 +6,11 @@ def divya_addition(a,b):
     c=a+b
     return c
 
-def arun_addition(a,b):
-    c=a+b
+def arun_addition(a, b):
+    c = a + b
+    print("Sum:", c)  # Added a print statement
     return c
+
 output=arun_addition(12,23)
 print(output)
 
